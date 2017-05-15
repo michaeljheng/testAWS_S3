@@ -1,1 +1,0 @@
-# testAWS_S3
